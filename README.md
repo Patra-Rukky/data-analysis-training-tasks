@@ -1,1 +1,1 @@
-# data-analysis-training-tasks
+# Data-Analysis-Training-Tasks
